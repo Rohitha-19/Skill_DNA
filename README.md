@@ -1,9 +1,9 @@
 # Skill_DNA
 
-#**🚀 Smart Competency Diagnostic & Profile Score Calculator**
+**🚀 Smart Competency Diagnostic & Profile Score Calculator**
 A modern AI-powered Recruitment Intelligence Platform that evaluates candidates using competency-based assessments and provides hiring insights, rankings, analytics, and recommendations.
 
-#**✨ Features**
+**✨ Features**
 - Candidate, Recruiter & Admin Dashboards
 - Competency Score Calculation Engine
 - Hiring Readiness Analysis
@@ -13,7 +13,7 @@ A modern AI-powered Recruitment Intelligence Platform that evaluates candidates 
 - Responsive Modern SaaS UI
 - Role-Based Access Control
   
-#**🛠 Tech Stack**
+**🛠 Tech Stack**
 - React
 - TypeScript
 - Vite
