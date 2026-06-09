@@ -23,6 +23,7 @@ A modern AI-powered Recruitment Intelligence Platform that evaluates candidates 
 - Chart.js
   
 **🚀 Run Locally**
+
 ##Install dependencies:
 npm install
 
